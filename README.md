@@ -10,3 +10,4 @@ contract UserBalances {
         balances[msg.sender] = _amount;
     }
 }
+Create storage and utility contracts
