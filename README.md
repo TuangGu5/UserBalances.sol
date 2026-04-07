@@ -12,3 +12,4 @@ contract UserBalances {
 }
 Create storage and utility contracts
 Clean code formatting
+Update setter logic
