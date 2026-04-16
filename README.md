@@ -15,3 +15,4 @@ Clean code formatting
 Update setter logic
 Improve contract modularity
 Fix minor issue
+Add basic tests
