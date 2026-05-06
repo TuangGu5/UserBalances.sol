@@ -17,3 +17,4 @@ Improve contract modularity
 Fix minor issue
 Add basic tests
 Fix revert condition
+Update constructor params
